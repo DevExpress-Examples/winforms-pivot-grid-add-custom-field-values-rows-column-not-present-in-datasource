@@ -194,6 +194,7 @@ namespace CustomDatesPivot
 
         public IEnumerator GetEnumerator()
         {
+            position = 0;
             return (IEnumerator)this;
         }
 
