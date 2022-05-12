@@ -10,6 +10,8 @@ Pivot Grid does not display field values in row and column areas if these values
 
 The following image illustrates a Pivot Grid that displays the custom `March` field value from the `CustomDates` collection along with field values from the data source:
 
+![Pivot Grid - Custom Field Values](./images/custom-field-values.png)
+
 <!-- default file list -->
 ## Files to Look at
 
