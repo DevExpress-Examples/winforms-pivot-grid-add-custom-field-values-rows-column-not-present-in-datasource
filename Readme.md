@@ -12,16 +12,15 @@ The following image illustrates a Pivot Grid that displays the custom `March` fi
 
 ![Pivot Grid - Custom Field Values](./images/custom-field-values.png)
 
-<!-- default file list -->
 ## Files to Review
 
 * [DateDataSourceWrapper.cs](./CS/CustomDatesPivot/DateDataSourceWrapper.cs) (VB: [DateDataSourceWrapper.vb](./VB/CustomDatesPivot/DateDataSourceWrapper.vb))
 * [Form1.cs](./CS/CustomDatesPivot/Form1.cs) (VB: [Form1.vb](./VB/CustomDatesPivot/Form1.vb))
 * [Program.cs](./CS/CustomDatesPivot/Program.cs) (VB: [Program.vb](./VB/CustomDatesPivot/Program.vb))
-<!-- default file list end -->
+
 ## Documentation
 
-[Fields](https://docs.devexpress.com/WindowsForms/1918/controls-and-libraries/pivot-grid/fundamentals/pivot-grid-fields)
+* [Fields](https://docs.devexpress.com/WindowsForms/1918/controls-and-libraries/pivot-grid/fundamentals/pivot-grid-fields)
 ## More Examples 
 
 - [Pivot Grid for WPF - How to Add Custom Field Values (Rows/Columns) that Are Not Present in a Data Source](https://github.com/DevExpress-Examples/how-to-add-custom-field-values-rows-columns-that-are-not-present-in-a-datasource-t615806)
